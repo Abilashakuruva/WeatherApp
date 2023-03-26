@@ -9,11 +9,11 @@ const Settings = () => {
   };
 
   const navigateToProject = ()=>{
-    navigate("https://github.com/GANESWARARAO-VASARLA/react-weather-app");
+    navigate("https://github.com/Abilashakuruva/WeatherApp");
   }
 
   const navigateToGithub = () =>{
-    navigate("https://github.com/GANESWARARAO-VASARLA");
+    navigate("https://github.com/Abilashakuruva/");
   }
 
   const [defaultLocation, setDefaultLocation] = useState("");
@@ -58,7 +58,7 @@ const Settings = () => {
               </svg>
               <p className=" text-capitalize px-3 text-dark">sponsor me!</p>
             </section>
-            Hi, I'm GANESWARARAO VASARLA. I built this weather app in 2023 to
+            Hi, I'm ABILASHA KURUVA. I built this weather app in 2023 to
             sharpen my react skills and also have a clean, ads free application
             I can use. I make most of my side projects open source with the hope
             people would be able to learn and use the things I build.
