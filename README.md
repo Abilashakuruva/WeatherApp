@@ -26,10 +26,9 @@
 #### Jquery AJAX [API Requests]
 
 
-### Live Link 
-
-https://ganesh-weather-app.vercel.app/
+### Live Link
+https://abilashaweatherapp.vercel.app/ 
 
 ### Please Support By Starring This Project. Follow Me For More Cool Open Source Projects.
+https://github.com/Abilashakuruva/WeatherApp
 
-https://github.com/GANESWARARAO-VASARLA/
